@@ -1,4 +1,4 @@
-# LEGO Mindstorms EV3 and a PS4 Controlled Robot
+# LEGO® Mindstorms® EV3 and a PS4 Controlled Robot
 
 This is the source code for a LEGO Mindstorms robot controlled by a PS4 controller: 
 
