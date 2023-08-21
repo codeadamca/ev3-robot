@@ -2,7 +2,7 @@
 
 This is the source code for a LEGO Mindstorms robot controlled by a PS4 controller: 
 
-[https://www.instagram.com/p/Bz1LX8kHGAU/](https://www.instagram.com/p/Bz1LX8kHGAU/)
+![LEGO Robot](https://www.instagram.com/p/Bz1LX8kHGAU/)
 
 ---
 
