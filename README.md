@@ -13,6 +13,7 @@ This is the source code for a LEGO Mindstorms robot controlled by a PS4 controll
 
 - [EV3 and a PS4 Controller](https://github.com/codeadamca/ev3-python-ps4)
 
+<br>
 <a href="https://codeadam.ca">
-<img src="https://codeadam.ca/images/code-block.png" width="100">
+<img src="https://cdn.codeadam.ca/images@1.0.0/codeadam-logo-coloured-horizontal.png" width="200">
 </a>
